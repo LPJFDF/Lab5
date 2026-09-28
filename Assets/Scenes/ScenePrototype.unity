@@ -3501,7 +3501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8296f13da07ee244a88def1475c8b36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ManualGateRotate
-  rotationSpeed: 50
+  rotationSpeed: 120
   isActive: 1
 --- !u!1001 &1453839710
 PrefabInstance:
@@ -5140,6 +5140,34 @@ PrefabInstance:
     - target: {fileID: 3759468469162627724, guid: 1e47550ececbd9144bd5d01700fbbd06, type: 3}
       propertyPath: m_Constraints
       value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 4020349829236410359, guid: 1e47550ececbd9144bd5d01700fbbd06, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.0772772
+      objectReference: {fileID: 0}
+    - target: {fileID: 4020349829236410359, guid: 1e47550ececbd9144bd5d01700fbbd06, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.0499997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4020349829236410359, guid: 1e47550ececbd9144bd5d01700fbbd06, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 4020349829236410359, guid: 1e47550ececbd9144bd5d01700fbbd06, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 4020349829236410359, guid: 1e47550ececbd9144bd5d01700fbbd06, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9998813
+      objectReference: {fileID: 0}
+    - target: {fileID: 4020349829236410359, guid: 1e47550ececbd9144bd5d01700fbbd06, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.015408763
+      objectReference: {fileID: 0}
+    - target: {fileID: 4020349829236410359, guid: 1e47550ececbd9144bd5d01700fbbd06, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1.766
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
